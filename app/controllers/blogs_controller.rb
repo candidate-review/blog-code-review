@@ -164,9 +164,3 @@ class BlogsController < ApplicationController
     User.new('john', 'doe')
   end
 end
-
-# ----------------------------------------------------------------------------
-# Everything ABOVE this line is fair game for the review. The items included
-# below are dependencies of the controller and are here solely so you don't
-# have to hunt them down in the source tree.
-# ----------------------------------------------------------------------------
